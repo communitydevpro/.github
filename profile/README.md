@@ -23,9 +23,9 @@
 
   As contribuições serão feitas nos projetos que formos criando, de acordo com a escolha da comunidade.
   
-      - contribuindo com novas features
-      - criando issues
-      - fazendo code review
+   - contribuindo com novas features
+   - criando issues
+   - fazendo code review
 
 # Onde posso conseguir ajuda, seu eu precisar?
 
